@@ -1,0 +1,7 @@
+student_id,name,skills,interests,preferred_domain,preferred_location
+STU001,Arun Kumar,"Python, Pandas, NumPy, SQL","Data Science, Machine Learning",Data Science,Remote
+STU002,Priya S,"Python, Statistics, Excel","Analytics, Finance",Data Analytics,Chennai
+STU003,Rahul M,"Java, SQL, HTML, CSS","Web Development, Software",Software Development,Remote
+STU004,Divya R,"Python, Scikit-learn, Pandas","AI, Machine Learning",Artificial Intelligence,Remote
+STU005,Karthik V,"HTML, CSS, JavaScript, React","Frontend, UI Design",Web Development,Chennai
+STU006,Meena K,"Python, NumPy, Statistics","Data Science, Research",Data Science,Remote

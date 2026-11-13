@@ -1,0 +1,11 @@
+internship_id,title,company,domain,required_skills,location,description
+INT001,Python Data Science Intern,DataAlcott Systems,Data Science,"Python, Pandas, NumPy, Statistics",Remote,"Work with datasets, data cleaning, analysis and basic machine learning."
+INT002,Machine Learning Intern,Nova AI Labs,Artificial Intelligence,"Python, Scikit-learn, Machine Learning, NumPy",Remote,Build and evaluate predictive models and recommendation prototypes.
+INT003,Business Data Analyst Intern,FinEdge Analytics,Data Analytics,"Python, Excel, SQL, Statistics",Chennai,"Prepare reports, analyze business data and communicate insights."
+INT004,Frontend Web Developer Intern,PixelCraft Studio,Web Development,"HTML, CSS, JavaScript, React",Chennai,Create responsive web pages and reusable frontend components.
+INT005,Python Automation Intern,TechBridge Solutions,Software Development,"Python, SQL, Git",Remote,Automate repetitive workflows and work with APIs and data files.
+INT006,AI Research Intern,Cognify Research,Artificial Intelligence,"Python, Pandas, Scikit-learn, Deep Learning",Remote,Explore AI methods and document experiments with research datasets.
+INT007,Finance Analytics Intern,FinServe Group,Finance,"Python, Excel, Statistics, Data Visualization",Remote,Analyze finance datasets and create dashboards and summaries.
+INT008,Database Intern,DataCore Services,Database Management,"SQL, Python, Database, Data Modeling",Chennai,"Practice relational database design, SQL queries and data validation."
+INT009,Data Visualization Intern,InsightWorks,Data Analytics,"Python, Pandas, Matplotlib, Statistics",Remote,Clean datasets and communicate findings through charts and reports.
+INT010,Software Testing Intern,QualityFirst Tech,Software Development,"Python, Testing, Java, Git",Remote,"Write test cases, report bugs and validate software features."
